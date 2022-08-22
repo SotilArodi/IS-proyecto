@@ -221,7 +221,7 @@ El sistema está diseñado de forma que pueda ser actualizado cada cierto tiempo
   Cada parte del proyecto tiene un dominio que aísla los códigos formados por módulos de clases relacionadas con una funcionalidad de la aplicación.
 
    <p align="center">
-    <img src="/imagenesINGSoft/participante.png" >
+    <img src="/imagenesINGSoft/dd1(1).png" >
       </p>
 
 * Entities: 
@@ -229,7 +229,7 @@ El sistema está diseñado de forma que pueda ser actualizado cada cierto tiempo
   Existen diferentes entidades en el Sistema que desarrollamos, entre ellas podríamos mencionar las entidades Ponente, Participante y Evento, ya que son objeto del dominio que  mantienen un estado y comportamiento más allá de la ejecución de la aplicación. A continuación se muestra la entidad Ponente, que posee una identificación única mediante su DNI.
 
    <p align="center">
-      <img src="/imagenesINGSoft/dd2(1).png" >
+      <img src="/imagenesINGSoft/participante.png" >
        </p>
       
 *  Value Objects:

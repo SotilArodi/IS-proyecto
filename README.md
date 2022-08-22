@@ -239,7 +239,7 @@ El sistema está diseñado de forma que pueda ser actualizado cada cierto tiempo
    En nuestro sistema identificamos algunos Value Objects, como el siguiente: 
     
     <p align="center">
-       <img src="/imagenesINGSoft/dd3(1).png" >
+       <img src="/imagenesINGSoft/a_DDD_VO.png" >
       </p>
    La clase SesionEvento si bien aparece como un Entity en realidad solo es un dato que conecta la relacion N-M de las entidades Sesión y Evento y almacena el dato de la hora de Inicio. Sin estas otras entidades perdería sentido por sí misma. Es un Value Object.
  
@@ -248,8 +248,8 @@ El sistema está diseñado de forma que pueda ser actualizado cada cierto tiempo
    Es un concepto de gran importancia porque, además de servir de vehículo de entendimiento en el negocio y entre el negocio e IT, también sirve para identificar las particiones del Domain, que darán lugar a soluciones modulares
 
    <p align="center">
-  <img src="/imagenesINGSoft/dd4(1).png" >
-    <img src="/imagenesINGSoft/dd5(1).png" >
+  <img src="/imagenesINGSoft/a_DDD_L1.png" >
+    <img src="/imagenesINGSoft/a_DDD_L2.png" >
       </p>
 
 *  Aggregates: 
@@ -258,7 +258,7 @@ El sistema está diseñado de forma que pueda ser actualizado cada cierto tiempo
    Existe un agregado “Sesión” ya que esta entidad posee relaciones con otras a nivel de negocio y su acceso es mediante la entidad Programa.
     
     <p align="center">
-  <img src="/imagenesINGSoft/dd6(1).png" >
+  <img src="/imagenesINGSoft/a_DDD_A.png" >
       <img src="/imagenesINGSoft/dd7(1).png">
       </p>
 
@@ -267,7 +267,7 @@ El sistema está diseñado de forma que pueda ser actualizado cada cierto tiempo
   En nuestro proyecto tenemos clases, o más famosamente llamados controladores (MVC), que tienen la función de repositorio, ya que, son los que controlan, dirigen, a la aplicación   por dónde debe ir dependiendo de lo que el usuario requiera al interactuar con dicha aplicación.
 
      <p align="center">
-       <img src="/imagenesINGSoft/dd8.png" >
+       <img src="/imagenesINGSoft/a_DDD_R.png" >
      </p>
 
   Un claro ejemplo sería en controlador de Sesión, que guarda diferentes funciones en donde consultamos dichos datos a la base de datos para que luego sean mostrados al usuario.

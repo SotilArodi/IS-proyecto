@@ -267,7 +267,7 @@ El sistema está diseñado de forma que pueda ser actualizado cada cierto tiempo
   En nuestro proyecto tenemos clases, o más famosamente llamados controladores (MVC), que tienen la función de repositorio, ya que, son los que controlan, dirigen, a la aplicación   por dónde debe ir dependiendo de lo que el usuario requiera al interactuar con dicha aplicación.
 
      <p align="center">
-       <img src="/imagenesINGSoft/a_DDD_R.png" >
+       <img src="/imagenesINGSoft/a_DDD.png" >
      </p>
 
   Un claro ejemplo sería en controlador de Sesión, que guarda diferentes funciones en donde consultamos dichos datos a la base de datos para que luego sean mostrados al usuario.

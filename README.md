@@ -1,4 +1,5 @@
 ## PROYECTO DE SOFTAWARE BIBLIOTECA DIGITAL
+*Integrantes
 
 ## Práctica de código legible aplicadas
 

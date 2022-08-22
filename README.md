@@ -259,7 +259,6 @@ El sistema está diseñado de forma que pueda ser actualizado cada cierto tiempo
     
     <p align="center">
   <img src="/imagenesINGSoft/a_DDD_A.png" >
-      <img src="/imagenesINGSoft/dd7(1).png">
       </p>
 
 * Repository:

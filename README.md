@@ -1,5 +1,6 @@
 ## PROYECTO DE SOFTAWARE BIBLIOTECA DIGITAL
 Integrantes
+
 *Arodi Carhuas Heredia
 
 *Alvaro Panibra CHoctaya

@@ -1,8 +1,11 @@
 ## PROYECTO DE SOFTAWARE BIBLIOTECA DIGITAL
 Integrantes
 *Arodi Carhuas Heredia
+
 *Alvaro Panibra CHoctaya
+
 *Cristhian Mendoza Cari
+
 ## Práctica de código legible aplicadas
 
 * No colocar JS ni CSS en las plantillas Blade y no coloques HTML en clases de PHP

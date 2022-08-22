@@ -40,8 +40,11 @@ class SesionController extends Controller
     public function store(Request $request)
     {
         sesion::create($request->all());
+        error_log($request->input('id_program'));
         $programa = programa::where('id',$request->input('id_programa'))->first();
-        return redirect()->route('programa.show',$programa->id);
+        error_log("creado");
+        error_log($anio_edicion);
+        return redirect()->route('programa.show',$anio_edicion->anio_edicion);
     }
 
     /**

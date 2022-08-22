@@ -212,8 +212,9 @@ El sistema está diseñado de forma que pueda ser actualizado cada cierto tiempo
 * Composición de funciones:
   Esta sección muestra como se conectan las llamadas a funciones. Se utiliza un estilo de paso de continuación, donde a cada función se le da también la siguiente función que debe ser llamada.
   <p align="center">
-      <img src="/imagenesINGSoft/estilos.jpeg" >
-      <img src="/imagenesINGSoft/estilos1.jpeg" >
+      <img src="/imagenesINGSoft/a_ESTILOS_1.png" >
+      <img src="/imagenesINGSoft/a_ESTILOS_2.png" >
+      <img src="/imagenesINGSoft/a_ESTILOS_3.png" >
       </p>
 ## Conceptos DDD aplicados
 * Modules:

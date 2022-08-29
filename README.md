@@ -7,7 +7,6 @@ Integrantes
 
 *Cristhian Mendoza Cari
 
--------------------------------------
 ## Propósito del proyecto
 El presente proyecto tiene la finalidad de aplicar todo lo aprendido a lo largo del semestre del curso de ing de software de la carrera de ciencia de la computación de la Universidad Nacional de San Agustín.Ademas de ello, el presente documento tiene como propósito elicitar ,especificar y analizar los requisitos de software y definir las especificaciones funcionales y no funcionales para el desarrollo de un sistema web que gestiona distintintos eventos y ponencias. Este sistema será utilizado por personal de la Escuela de Ciencia de la Computación
 
@@ -33,7 +32,7 @@ En el presente proyecto usamos HTML, CSS ; el gestor de Base de Datos se uso MyS
   - Eliminar Evento:  Solo el administrador puede eliminar un evento.
 - Registrar inscripciones para concursos: El sistema permite a un usuario inscribirse en un concurso. Para ello se requiere que se haya iniciado sesión.
 - Buscar por filtro: El sistema permite al usuario buscar un evento por título o etiquetas.
--------------------------------------
+
 
 ## Práctica de código legible aplicadas
 
